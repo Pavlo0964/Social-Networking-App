@@ -1,0 +1,62 @@
+[
+  {
+    id: "1",
+    name: "",
+    online: true,
+    favourite: false
+  },
+  {
+    id: "2",
+    name: "",
+    online: true,
+    favourite: true
+  },
+  {
+    id: "3",
+    name: "",
+    online: false,
+    favourite: false
+  },
+  {
+    id: "4",
+    name: "",
+    online: false,
+    favourite: false
+  },
+  {
+    id: "5",
+    name: "",
+    online: true,
+    favourite: false
+  },
+  {
+    id: "6",
+    name: "",
+    online: false,
+    favourite: false
+  },
+  {
+    id: "7",
+    name: "",
+    online: false,
+    favourite: false
+  },
+  {
+    id: "8",
+    name: "",
+    online: false,
+    favourite: false
+  },
+  {
+    id: "9",
+    name: "",
+    online: false,
+    favourite: false
+  },
+  {
+    id: "10",
+    name: "",
+    online: false,
+    favourite: false
+  }
+];
