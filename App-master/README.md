@@ -1,7 +1,7 @@
 # Pluzo
 
 Pluzo is a React Native app currently targeting iOS and Android.
-Pluzo is built with yarn 1.13.0, node v14.4.0 and CocoaPods v1.8.4
+Pluzo is built with yarn 1.13.0, node v14.4.0 and CocoaPods v1.8.4.
 
 ## Install
 
